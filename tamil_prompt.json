@@ -1,0 +1,35 @@
+
+{
+  "subject": "A Tamil woman wearing a traditional Kanchipuram silk saree, creating a detailed kolam in the courtyard",
+  "setting": {
+    "place": "Chettinad heritage mansion courtyard, Tamil Nadu, India",
+    "era": "Traditional Chettinad architectural heritage",
+    "time_of_day": "golden hour during the Margazhi festival"
+  },
+  "lighting": "Soft natural dawn light with gentle warm sunlight",
+  "camera": {
+    "shot": "close-up",
+    "lens": "35mm",
+    "angle": "eye-level"
+  },
+  "palette": [
+    "terracotta red",
+    "deep maroon",
+    "warm cream",
+    "traditional gold"
+  ],
+  "style": "Photorealistic documentary photography, culturally authentic Tamil Nadu details, realistic human proportions and natural textures",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "North Indian architecture",
+    "Bengali sarees",
+    "modern buildings",
+    "neon colours",
+    "fantasy elements",
+    "cartoon style",
+    "distorted hands",
+    "extra fingers",
+    "text",
+    "watermarks"
+  ]
+}
